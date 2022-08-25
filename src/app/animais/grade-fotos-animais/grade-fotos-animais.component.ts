@@ -12,8 +12,4 @@ export class GradeFotosAnimaisComponent implements OnInit {
   constructor() {}
 
   ngOnInit(): void {}
-
-  retornaAtrAnimais(): void {
-    console.log(this.animais);
-  }
 }
