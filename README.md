@@ -3,14 +3,14 @@
 Criada como prática do aprendizado dos cursos de Angular da Plataforma Alura, ministradas pelo Prof. Alvaro Camillo. A aplicação desenvolvida é uma rede social SPA (Single Page Application) chamada Gatitobook, onde os usuários postam fotos dos seus pet (gatos), interagem entre si (curtem, comentam posts). 
 
 A aplicação possui:
-Página de Home 
-Página de Login
+Página de Home, com Login
 Página de Cadastro de usuário
+Página de Cadastro de animal, com descrição.
+Página com Fotos e aréa para comentários, ícones de like com contagem de likes
 Validação de formulário assíncrono
 Autenticação de usuário
-Fotos
-Likes
-Comentários
+
+### Obs.: O código App está na branch master.
 
 ## Cursos de Angular realizados:
 
